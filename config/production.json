@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://amanda123:amanda123@devconnector-inqp8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "11fd98d212db1cc89c2a",
+  "githubSecret": "3b9f04af0c370667563dfd7647ff30f7d261f5c2"
+}
